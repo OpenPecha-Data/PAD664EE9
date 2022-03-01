@@ -1,0 +1,601 @@
+id: PAD664EE9
+initial_creation_type: input
+source_metadata:
+  title: Aṣṭasāhasrikā Prajñāpāramitā
+  language: zh
+  volumes:
+    d2350b8fbae645879421e51c41dd10fb:
+      title: 29. Parivarta
+      base_file: 29. Parivarta.txt
+      work_id: WF9562AF6
+    6aa313ec977f48688f4dd17d9949f888:
+      title: CIII_1. Worldly advantages of perfect wisdom
+      base_file: CIII_1. Worldly advantages of perfect wisdom.txt
+      work_id: WBD78EC62
+    048baa48152e4f0b81f8ba09a29f83fa:
+      title: CIII_2. The cult of perfect wisdom compared with the cult of the buddhas
+      base_file: CIII_2. The cult of perfect wisdom compared with the cult of the
+        buddhas.txt
+      work_id: WDAC97917
+    d72fc0f50870481ea5a17455f12f71ed:
+      title: CIII_3. Perfect wisdom, a great spell
+      base_file: CIII_3. Perfect wisdom, a great spell.txt
+      work_id: W878628A1
+    ff50a01d7b464156bbc08949f6a5c926:
+      title: CIII_4. Perfect wisdom, and the other perfections
+      base_file: CIII_4. Perfect wisdom, and the other perfections.txt
+      work_id: W87EDB900
+    3a820507c70d4d26998362a47f1986ea:
+      title: CIII_5. Further advantages from perfect wisdom
+      base_file: CIII_5. Further advantages from perfect wisdom.txt
+      work_id: WEFE9B45E
+    18b30a7186d944fcbc6d7e69f5047c90:
+      title: CII_1. Preamble
+      base_file: CII_1. Preamble.txt
+      work_id: W6309736A
+    7c0f77e9e554479abf64f8c92cf23537:
+      title: CII_2. How to stand in emptiness, or the perfection of wisdom
+      base_file: CII_2. How to stand in emptiness, or the perfection of wisdom.txt
+      work_id: WC13434D3
+    143dc593da7d42599095340c0f53fa2b:
+      title: CII_3. The saints and their goal are illusions
+      base_file: CII_3. The saints and their goal are illusions.txt
+      work_id: WEFDD55B7
+    33dd0f9ad0664df9ab3df9ad4a4f04df:
+      title: CII_4. Sakra’s flowers
+      base_file: CII_4. Sakra’s flowers.txt
+      work_id: W901A9EA0
+    e9ce4a8a0c014541b98242a50fa3d7cc:
+      title: CII_5. Training in perfect wisdom
+      base_file: CII_5. Training in perfect wisdom.txt
+      work_id: W4ADDB42F
+    a06597a607fe4a4b995bc2b40dfd3d70:
+      title: CII_6. The infinitude of perfect wisdom
+      base_file: CII_6. The infinitude of perfect wisdom.txt
+      work_id: WB941FC21
+    3d1241e451ea44b69e1638e2f49aa9d4:
+      title: CII_7. Confirmation
+      base_file: CII_7. Confirmation.txt
+      work_id: W7D758784
+    574eb5da670e42a3a2225293018e3505:
+      title: CIV_1. Relative value of tathagata-relics and of perfect wisdom
+      base_file: CIV_1. Relative value of tathagata-relics and of perfect wisdom.txt
+      work_id: W9C903732
+    6f9060d509b541e2a4ae09f8b4a5e635:
+      title: CIV_2. Simile of the wishing jewel
+      base_file: CIV_2. Simile of the wishing jewel.txt
+      work_id: W37AAE723
+    b315349cc605485dbe525df2ec100c34:
+      title: CIV_3. Supreme value of the perfection of wisdom
+      base_file: CIV_3. Supreme value of the perfection of wisdom.txt
+      work_id: W49F8FFF8
+    3ac38ddb846546bc907dd8bd6fe4f090:
+      title: CIX_1. Perfect wisdom perfectly pure
+      base_file: CIX_1. Perfect wisdom perfectly pure.txt
+      work_id: WAEE2ABAC
+    7061f9599a1b4d358fa5dda31746879a:
+      title: CIX_2. Effects of perfect wisdom
+      base_file: CIX_2. Effects of perfect wisdom.txt
+      work_id: WBF181576
+    f05da0de31f74803bff3c677471179a8:
+      title: CIX_3. The second turning of the wheel of dharma
+      base_file: CIX_3. The second turning of the wheel of dharma.txt
+      work_id: W03D2C5AE
+    abb62de1b32e406ca187e8c3035a5df4:
+      title: CIX_4. Modes and qualities of perfect wisdom
+      base_file: CIX_4. Modes and qualities of perfect wisdom.txt
+      work_id: W9F775C13
+    37969557388148938f6424f1d362b862:
+      title: CI_1. Introduction
+      base_file: CI_1. Introduction.txt
+      work_id: W88B806DE
+    0b7e93b6e4f942b29bed66ad58258424:
+      title: CI_2. The extinction of self
+      base_file: CI_2. The extinction of self.txt
+      work_id: W495BD9DD
+    9d85aa7af8414a38a99ed69290e3beb3:
+      title: CI_3. The meaning of ’Bodhisattva’
+      base_file: CI_3. The meaning of ’Bodhisattva’.txt
+      work_id: W7EE55858
+    fdc7278e6a9a4c20844412529f24e790:
+      title: CI_4. The meaning of ’great being’
+      base_file: CI_4. The meaning of ’great being’.txt
+      work_id: WDD58A954
+    f5d31a6ef4924529b2a88a3d01fcbc73:
+      title: CI_5. The meaning of ’great vehicle’
+      base_file: CI_5. The meaning of ’great vehicle’.txt
+      work_id: WBB86A8F3
+    74c24de93a0e4ee896cfd00a9fc72741:
+      title: CI_6. Attainment
+      base_file: CI_6. Attainment.txt
+      work_id: WDD55ED7D
+    787f0a9303d543d49e313bfd514a2c3e:
+      title: CVIII_1. Depth and purity of perfect wisdom
+      base_file: CVIII_1. Depth and purity of perfect wisdom.txt
+      work_id: WC09A5FAD
+    cc3e92e8bfae4dd090be02cd42d83628:
+      title: CVIII_2. Attachments
+      base_file: CVIII_2. Attachments.txt
+      work_id: WFF40535F
+    862e9f39ec524fe9be9bf28f9dbf6351:
+      title: CVIII_3. Non-attachment
+      base_file: CVIII_3. Non-attachment.txt
+      work_id: WE1FA3ED0
+    75a2f88d1bcc4eecb1db089ef577a23d:
+      title: CVIII_4. Like space or an echo
+      base_file: CVIII_4. Like space or an echo.txt
+      work_id: W04FAA088
+    a7dfb0d5486b4a4eac8b577066b6d4a1:
+      title: CVIII_5. Conclusion
+      base_file: CVIII_5. Conclusion.txt
+      work_id: W0097BB94
+    e2d134ce64e04f328bda4c3a93d4b264:
+      title: CVII_1. Hymm to the perfection of wisdom
+      base_file: CVII_1. Hymm to the perfection of wisdom.txt
+      work_id: W861C7814
+    b862e777548a4998b1f964051b80acd0:
+      title: CVII_2. Predominance of perfect wisdom over the other perfections
+      base_file: CVII_2. Predominance of perfect wisdom over the other perfections.txt
+      work_id: WFE9E90F4
+    d579bdb994894423ace16813994f9d52:
+      title: CVII_3. Nothing procured by perfect wisdom
+      base_file: CVII_3. Nothing procured by perfect wisdom.txt
+      work_id: W0A944ECD
+    257e7200148b4af4b5003551f81d9646:
+      title: CVII_4. Why the perfection of wisdom is great
+      base_file: CVII_4. Why the perfection of wisdom is great.txt
+      work_id: W3F9D1FA5
+    d104187dba8049f08c15a4f648d7f787:
+      title: CVII_5. Causes of belief in the perfection of wisdom
+      base_file: CVII_5. Causes of belief in the perfection of wisdom.txt
+      work_id: W42560C04
+    6c81969d5fed44269314bc26f568bc44:
+      title: CVII_6. Causes and consequences of disbelief
+      base_file: CVII_6. Causes and consequences of disbelief.txt
+      work_id: W0BF92A92
+    59c3ad5d52a14498a5a23c5c47422054:
+      title: CVI_1. Supreme merit of dedication and jubilation
+      base_file: CVI_1. Supreme merit of dedication and jubilation.txt
+      work_id: W969C5D8E
+    f65a12f4a99043d6b89711ffb655c343:
+      title: CVI_2. The range of jubilation
+      base_file: CVI_2. The range of jubilation.txt
+      work_id: W3B3FB69F
+    4eb1779fa7204cd7bd4e1addd676f7a0:
+      title: CVI_3. A metaphysical problem
+      base_file: CVI_3. A metaphysical problem.txt
+      work_id: W537FDF6F
+    deddd144a24949668f8d066fa2f65497:
+      title: CVI_4. How perverted views can be avoided
+      base_file: CVI_4. How perverted views can be avoided.txt
+      work_id: W3438E6DC
+    02f6d3eccff54c04966c83f8ab2c93dd:
+      title: CVI_5. Considerations of merit
+      base_file: CVI_5. Considerations of merit.txt
+      work_id: W43F89F87
+    bb8840b6544f4831ab8bcd8fd0ae459e:
+      title: CV_1. The perfection of wisdom a source of great merit
+      base_file: CV_1. The perfection of wisdom a source of great merit.txt
+      work_id: W9B24D550
+    0c7eb499e3574e3c93b70e13233768ca:
+      title: CV_2. The counterfeit perfection of wisdom
+      base_file: CV_2. The counterfeit perfection of wisdom.txt
+      work_id: W50849DD1
+    2ef8aa7c86174a96afbc881c31534748:
+      title: CV_3. The perfection of wisdom greater than any other spiritual gift
+      base_file: CV_3. The perfection of wisdom greater than any other spiritual gift.txt
+      work_id: W252259D5
+    c1b34b308a65489981ef6ba620b570a6:
+      title: CXIII_1. Five attributes of perfect wisdom
+      base_file: CXIII_1. Five attributes of perfect wisdom.txt
+      work_id: WA93FA094
+    0a69970b0a2c45b6aa9b8f3e124af26c:
+      title: CXIII_2. Spiritual rebirth resulting from this knowledge
+      base_file: CXIII_2. Spiritual rebirth resulting from this knowledge.txt
+      work_id: W1A0F2AED
+    69f0df4c0a2c47b880f4fcfdfdd54318:
+      title: CXIII_3. Nothing to take hold of
+      base_file: CXIII_3. Nothing to take hold of.txt
+      work_id: WA6DA9B22
+    f223c50fe56d4c02af58da84695a0057:
+      title: CXIII_4. Reaction of the gods
+      base_file: CXIII_4. Reaction of the gods.txt
+      work_id: W0209B140
+    b55a8875c30b4a23a24e81e6c606966f:
+      title: CXII_1. Perfect wisdom the mother of the Buddhas
+      base_file: CXII_1. Perfect wisdom the mother of the Buddhas.txt
+      work_id: W869EF8AA
+    9bbd94fa65e743489cabe7da3e7f547e:
+      title: CXII_2. How the Tathagata knows the world
+      base_file: CXII_2. How the Tathagata knows the world.txt
+      work_id: W20495F44
+    b0056ce8c6dd4ff38b8e004e3692da58:
+      title: CXII_3. How the Tathagata knows the thoughts of beings*
+      base_file: CXII_3. How the Tathagata knows the thoughts of beings*.txt
+      work_id: WB040689A
+    be55af72c55c41879db9a938424bfaa2:
+      title: CXII_4. Deep marks, and how they are fastened
+      base_file: CXII_4. Deep marks, and how they are fastened.txt
+      work_id: W0D93F6FF
+    602500a300e443dca2623dbb39e41763:
+      title: CXII_5. The world shown as empty
+      base_file: CXII_5. The world shown as empty.txt
+      work_id: WF1AC6C44
+    76581505f7fa49698fd0e82453dccfe4:
+      title: CXIV_1. Future and past rebirths
+      base_file: CXIV_1. Future and past rebirths.txt
+      work_id: WCB2DBC5F
+    0d137915ac5a493e92c2e71c4723298d:
+      title: CXIV_2. Past deeds of a bodhisattva who fails in perfect wisdom
+      base_file: CXIV_2. Past deeds of a bodhisattva who fails in perfect wisdom.txt
+      work_id: WFD73DE78
+    2a84ad1f12c744d59e14e0b95caa7f7e:
+      title: CXIV_3. Four similes
+      base_file: CXIV_3. Four similes.txt
+      work_id: W60458553
+    7399b17cae8e4537b1a3b31d37a13d57:
+      title: CXIX_1. Conditioned coproduction
+      base_file: CXIX_1. Conditioned coproduction.txt
+      work_id: W85F5D254
+    9f893e163fd54eb2bd11de279066b5ea:
+      title: CXIX_2. No development
+      base_file: CXIX_2. No development.txt
+      work_id: W84816A0E
+    0d54f24315774757b1df4ed18a328442:
+      title: CXIX_3. No objective supports and no own-being
+      base_file: CXIX_3. No objective supports and no own-being.txt
+      work_id: W08178C78
+    feda462d0ad44599bf092c46325a1094:
+      title: CXIX_4. Five places which inspire fear
+      base_file: CXIX_4. Five places which inspire fear.txt
+      work_id: WE1A1CA14
+    51b57710b4cd4da5978ef71d49ef8820:
+      title: CXIX_5. Prediction of the goddess of the Ganges
+      base_file: CXIX_5. Prediction of the goddess of the Ganges.txt
+      work_id: W99F7D343
+    6ed5ba79e61846f5bca8967733c221e0:
+      title: CXI_1. Various deeds of Mara
+      base_file: CXI_1. Various deeds of Mara.txt
+      work_id: WDE54E658
+    120481d435704897915ab9bcac326e22:
+      title: CXI_2. The perfection of wisdom and the sutras of the disciples
+      base_file: CXI_2. The perfection of wisdom and the sutras of the disciples.txt
+      work_id: W298A2B99
+    f1295c91431a47cc9ca1ca90d25ec28d:
+      title: CXI_3. Various deeds of Mara
+      base_file: CXI_3. Various deeds of Mara.txt
+      work_id: WEC484970
+    5f0dc10c67274835be01bd2a473a3283:
+      title: CXI_4. Sources of discord between teacher and pupil
+      base_file: CXI_4. Sources of discord between teacher and pupil.txt
+      work_id: WEA999A25
+    b248b5549d794b3f81f13f8717939d46:
+      title: CXI_5. Misdirection of aim
+      base_file: CXI_5. Misdirection of aim.txt
+      work_id: W4345F18F
+    8b01df79daef466d951337426dd0299a:
+      title: CXI_6. More discord between teacher and pupil
+      base_file: CXI_6. More discord between teacher and pupil.txt
+      work_id: W540622DC
+    2fe1fbd8e48c41dd8da7391be1297157:
+      title: CXI_8. Antagonism between Mara and Buddha
+      base_file: CXI_8. Antagonism between Mara and Buddha.txt
+      work_id: WEC348474
+    4584ad62776142a0aadf5c0a54151406:
+      title: CXVIII_1. Deep stations
+      base_file: CXVIII_1. Deep stations.txt
+      work_id: WB4EB492F
+    161adc2002fc419e937dfb8c4c7393af:
+      title: CXVIII_2. How to attend to perfect wisdom
+      base_file: CXVIII_2. How to attend to perfect wisdom.txt
+      work_id: W747B2294
+    d305d256f6724f1b8d3d9f351263318c:
+      title: CXVIII_3. Merit
+      base_file: CXVIII_3. Merit.txt
+      work_id: W13564D41
+    dd8c5c528fa74c09b0166958a5730cdb:
+      title: CXVIII_4. Immeasurable, empty and talk
+      base_file: CXVIII_4. Immeasurable, empty and talk.txt
+      work_id: WBAB1B8AA
+    8d7c1196a62345c7abe2795b31b7ac6c:
+      title: CXVIII_5. No growth or diminution
+      base_file: CXVIII_5. No growth or diminution.txt
+      work_id: W71EE21C1
+    f642be26013342f3b70b53a0483291d5:
+      title: CXVII_1. Various tokens of irreversibility
+      base_file: CXVII_1. Various tokens of irreversibility.txt
+      work_id: W9EAB6910
+    51501d7cb553465884b344d2f3e3930f:
+      title: CXVII_2. Mara’s deeds
+      base_file: CXVII_2. Mara’s deeds.txt
+      work_id: W2473B294
+    6c2c135cb6bc4c80914cba28df9d603f:
+      title: CXVII_3. More tokens of irreversibility
+      base_file: CXVII_3. More tokens of irreversibility.txt
+      work_id: W7575DD45
+    b0694f7532df44dd9ebba4d411f491eb:
+      title: CXVI_1. Tathagata-suchness
+      base_file: CXVI_1. Tathagata-suchness.txt
+      work_id: W4733EEC4
+    f4d263026605445d921ce9f65d68bc43:
+      title: CXVI_2. The earth shakes, and many are saved
+      base_file: CXVI_2. The earth shakes, and many are saved.txt
+      work_id: W26C22C24
+    766e3b8a1e8e41548ba5b83cd1713eb2:
+      title: CXVI_3. Perfect wisdom and skill in means
+      base_file: CXVI_3. Perfect wisdom and skill in means.txt
+      work_id: W06E003EF
+    f68ae649f6b54224ae5191138773be5e:
+      title: CXVI_4. Enlightenment and emptiness
+      base_file: CXVI_4. Enlightenment and emptiness.txt
+      work_id: W774CA92F
+    6fb97144febc4b638499f17d1bf062fc:
+      title: CXVI_5. Requisites of going forth to enlightenment
+      base_file: CXVI_5. Requisites of going forth to enlightenment.txt
+      work_id: WA0011329
+    96c2a3477f1a4cf998b954ca498f3276:
+      title: CXV_1. The beginner’s task
+      base_file: CXV_1. The beginner’s task.txt
+      work_id: WF24CF91A
+    55eff23166ea47c985573b008936294f:
+      title: CXV_2. How a bodhisattva helps beings
+      base_file: CXV_2. How a bodhisattva helps beings.txt
+      work_id: W23288F37
+    098a42811e634061908344a5cd126fd1:
+      title: CXV_3. Description of perfect wisdom
+      base_file: CXV_3. Description of perfect wisdom.txt
+      work_id: W3FF7B282
+    c22274e9088d4bc797b301455ba6d983:
+      title: CXXIII_1. The superior position of bodhisattvas
+      base_file: CXXIII_1. The superior position of bodhisattvas.txt
+      work_id: W016A61B6
+    404561b2dda942609e7c6ea0e68d6196:
+      title: CXXIII_2. Rewards of perfect wisdom
+      base_file: CXXIII_2. Rewards of perfect wisdom.txt
+      work_id: W84BCB3E4
+    ea5c4835969f411596b1820fb3920038:
+      title: CXXII_1. The good friends
+      base_file: CXXII_1. The good friends.txt
+      work_id: W72CDDD17
+    99b841ab84574c32ac749f77f19197e9:
+      title: CXXII_2. Emptiness, defilements and purification
+      base_file: CXXII_2. Emptiness, defilements and purification.txt
+      work_id: W75FB07AC
+    e632bb033b4b4283a3336fedb30403e0:
+      title: CXXII_3. Attentions to perfect wisdom, and the pearl of great price
+      base_file: CXXII_3. Attentions to perfect wisdom, and the pearl of great price.txt
+      work_id: W6B676B18
+    002092b5a8bf49dc865420bd697775f0:
+      title: CXXII_4. Emptiness and growth in enligthenment
+      base_file: CXXII_4. Emptiness and growth in enligthenment.txt
+      work_id: W8015088C
+    9b5a21fb7cc441c09e99161e5dc8ade4:
+      title: CXXIV_1. Conditions which open a bodhisattva to Mara’s influence
+      base_file: CXXIV_1. Conditions which open a bodhisattva to Mara’s influence.txt
+      work_id: W8D488382
+    6f79667e4ef24dd99d9a441ca20a7960:
+      title: CXXIV_2. The bodhisattva’s rigth attitude to other bodhisattvas
+      base_file: CXXIV_2. The bodhisattva’s rigth attitude to other bodhisattvas.txt
+      work_id: W8548820B
+    2847099dbcbf47438bc31ffc442fe844:
+      title: CXXIX_1. Sadaprarudita sets out to find perfect wisdom
+      base_file: CXXIX_1. Sadaprarudita sets out to find perfect wisdom.txt
+      work_id: WA9FA5021
+    e8724e9362c24d71aec08f96960eaf09:
+      title: CXXIX_2. Description of Gandhavati, and of Dharma_udgata’s life
+      base_file: CXXIX_2. Description of Gandhavati, and of Dharma_udgata’s life.txt
+      work_id: W22524783
+    f0f9eb1806a3485e9ebce30ce85c963c:
+      title: CXXIX_3. List and significance of concentrations
+      base_file: CXXIX_3. List and significance of concentrations.txt
+      work_id: WB8FE746A
+    9c561b1f81634e65979e93ca5fa8a9e6:
+      title: CXXIX_4. Sadaprarudita and the merchant’s daughter
+      base_file: CXXIX_4. Sadaprarudita and the merchant’s daughter.txt
+      work_id: WF3F1F48E
+    eb2f5615a4c64c94944694a6ba8cfcbc:
+      title: CXXIX_5. The meeting with Dharma_udgata
+      base_file: CXXIX_5. The meeting with Dharma_udgata.txt
+      work_id: WD9D949CD
+    f2381098c5cb4951bb5dd84367d65a2f:
+      title: CXXI_1. Pride and the magical power of veracity
+      base_file: CXXI_1. Pride and the magical power of veracity.txt
+      work_id: WFF533424
+    56670603cb12490cb3f4740cd06d8bff:
+      title: CXXI_2. Pride in connection with the annunciation of the name
+      base_file: CXXI_2. Pride in connection with the annunciation of the name.txt
+      work_id: WAA3A63AA
+    0fab7589d7d148cd86da8e4ff78b54f0:
+      title: CXXI_3. Faults in connection with detachment
+      base_file: CXXI_3. Faults in connection with detachment.txt
+      work_id: W49554AD0
+    39793e574a81475594164548fe25e8c6:
+      title: CXXVIII_1. Prediction of Avakirnakusuma
+      base_file: CXXVIII_1. Prediction of Avakirnakusuma.txt
+      work_id: W7CAB8AE9
+    37fa3e716727412d93300c9f088be473:
+      title: CXXVIII_2. Praise of perfect wisdom
+      base_file: CXXVIII_2. Praise of perfect wisdom.txt
+      work_id: W0AA6FA8F
+    7d6b5b61e3c04b2d9dfe8c2a5dada631:
+      title: CXXVIII_3. Transmission of the sutra to Ananda
+      base_file: CXXVIII_3. Transmission of the sutra to Ananda.txt
+      work_id: WB7A29252
+    18eb81a2e60c4f4086ffedd08b5c38a6:
+      title: CXXVIII_4. Akshobhya’s buddha-field
+      base_file: CXXVIII_4. Akshobhya’s buddha-field.txt
+      work_id: W423718C4
+    ea3b556704164cc994ae5732695d6bdc:
+      title: CXXVIII_5. Extinction, non-extinction and perfect wisdom
+      base_file: CXXVIII_5. Extinction, non-extinction and perfect wisdom.txt
+      work_id: W2EBCD76E
+    b6ee9e7b4a474c7695ade4ebe1a5c125:
+      title: CXXVIII_6. Advantages derived from perfect wisdom
+      base_file: CXXVIII_6. Advantages derived from perfect wisdom.txt
+      work_id: WAB1B515A
+    a482ec585c1242068c6e384ed2a69c13:
+      title: CXXVII_1. The bodhisattva’s courage in difficulties
+      base_file: CXXVII_1. The bodhisattva’s courage in difficulties.txt
+      work_id: WDDDD748D
+    9901c4cae9da40889eadcef256c3502d:
+      title: CXXVII_2. The bodhisattva protected by the gods and against Mara
+      base_file: CXXVII_2. The bodhisattva protected by the gods and against Mara.txt
+      work_id: W836E8333
+    6772d9fe1d38456385a1e062e329ff47:
+      title: CXXVII_3. The buddhas praise the bodhisattva
+      base_file: CXXVII_3. The buddhas praise the bodhisattva.txt
+      work_id: W34FA774A
+    925d0d3a7a3e41498de74d3d8d483b61:
+      title: CXXVII_4. Enlightenment and suchness
+      base_file: CXXVII_4. Enlightenment and suchness.txt
+      work_id: WEA10F968
+    ca27961c5c374538a4d052bbce03c374:
+      title: CXXVII_5. Emptiness and dwelling in perfect wisdom
+      base_file: CXXVII_5. Emptiness and dwelling in perfect wisdom.txt
+      work_id: WBA0AC48D
+    bccb5519291f42a38274b5524070adfa:
+      title: CXXVI_1. Sakra praises the bodhisattvas
+      base_file: CXXVI_1. Sakra praises the bodhisattvas.txt
+      work_id: W40A234BF
+    8c8e068167d643828ba5138001072211:
+      title: CXXVI_2. Jubilation, turning over and merit
+      base_file: CXXVI_2. Jubilation, turning over and merit.txt
+      work_id: W42943A82
+    2548ee8d3b64432ea9f7701633eb5c26:
+      title: CXXVI_3. The nature of illusion
+      base_file: CXXVI_3. The nature of illusion.txt
+      work_id: WD7207C6E
+    a67c52f5af924d00ad315deba0304cb1:
+      title: CXXV_1. How a bodhisattva is trained in all-knowledge
+      base_file: CXXV_1. How a bodhisattva is trained in all-knowledge.txt
+      work_id: WB0BFD482
+    89b0129debe2443d8a694de768b85df6:
+      title: CXXV_2. Fewness of bodhisattvas
+      base_file: CXXV_2. Fewness of bodhisattvas.txt
+      work_id: W28FFAEC8
+    7416fad51a6946d8b3f939e9bcabf61e:
+      title: CXXV_3. The perfection of wisdom comprehends all perfections
+      base_file: CXXV_3. The perfection of wisdom comprehends all perfections.txt
+      work_id: WAAAA13C7
+    b95ed7edd28c4c29b9610d7297b43ca4:
+      title: CXXV_4. Merit from perfect wisdom
+      base_file: CXXV_4. Merit from perfect wisdom.txt
+      work_id: W7562D92F
+    df7e392b64034de0805b1d83d444cf58:
+      title: CXXV_5. Bodhisattvas and disciples
+      base_file: CXXV_5. Bodhisattvas and disciples.txt
+      work_id: W480BA14D
+    3f3c8a518afa488d9cb15dfa7e0b795e:
+      title: CXXXI_1. End of the story of Sadaprarudita
+      base_file: CXXXI_1. End of the story of Sadaprarudita.txt
+      work_id: WCEB4D544
+    fecacef616384fa2bd4e1e6475bd3416:
+      title: CXXXI_2. The perfection of wisdom entrusted to Ananda
+      base_file: CXXXI_2. The perfection of wisdom entrusted to Ananda.txt
+      work_id: W2C9DC29F
+    1568e32e96c74eaba1fdc4b46115d623:
+      title: CXXX_1. The coming and going of the tathagatas
+      base_file: CXXX_1. The coming and going of the tathagatas.txt
+      work_id: WB1114DC7
+    079d78cc910b4652af0f5514d2027342:
+      title: CXXX_2. Sadaprarudita’s self sacrifice
+      base_file: CXXX_2. Sadaprarudita’s self sacrifice.txt
+      work_id: W2486448A
+    6d0fc4b9c2f043fab1006891d7682d9b:
+      title: CXXX_3. Dharma_udgata’s demonstration of dharma
+      base_file: CXXX_3. Dharma_udgata’s demonstration of dharma.txt
+      work_id: WF645BA73
+    3910a969909b4d26884687b940d0ff3c:
+      title: CXX_1. Emptiness and reality-limit
+      base_file: CXX_1. Emptiness and reality-limit.txt
+      work_id: W8FED5D7E
+    53e45ffe85c04776b21da06833830a65:
+      title: CXX_2. Three similes
+      base_file: CXX_2. Three similes.txt
+      work_id: W42094482
+    6e57b62c37884a2cbca6c5d65ba677f6:
+      title: CXX_3. Doors to deliverance and vows about beings
+      base_file: CXX_3. Doors to deliverance and vows about beings.txt
+      work_id: W6EBDD88B
+    d8a72c025d2f4916a7f1bdf7a66fc347:
+      title: CXX_4. Irreversibility
+      base_file: CXX_4. Irreversibility.txt
+      work_id: W2FB62BBA
+    9f95a270b9eb453c93fe413dfe374d9a:
+      title: CXX_5. Dream experiences and the mark of irreversibility
+      base_file: CXX_5. Dream experiences and the mark of irreversibility.txt
+      work_id: W8E7835B3
+    1ccc445cf9104b6c9e1ef3496d8d6199:
+      title: CXX_6. Irreversibility and the magical power of veracity
+      base_file: CXX_6. Irreversibility and the magical power of veracity.txt
+      work_id: WC2659440
+    27749fc84a90475fa6d22073660fbc03:
+      title: CX_1. Past deeds, and the present attitude to perfect wisdom
+      base_file: CX_1. Past deeds, and the present attitude to perfect wisdom.txt
+      work_id: W8D11BB66
+    d6829f9258a44387b492b31d076b9de7:
+      title: CX_2. Qualifications of a bodhisattva who obtains perfect wisdom
+      base_file: CX_2. Qualifications of a bodhisattva who obtains perfect wisdom.txt
+      work_id: W47C5C485
+    f6adefa031274e9280245fa6327546d3:
+      title: CX_3. Five similes to illustrate nearness to full enlightenment
+      base_file: CX_3. Five similes to illustrate nearness to full enlightenment.txt
+      work_id: WCC4C090F
+    9ed0fb1c739d4e4ba75b80d860e46190:
+      title: CX_4. Why bodhisattvas are well favoured by the buddhas
+      base_file: CX_4. Why bodhisattvas are well favoured by the buddhas.txt
+      work_id: WFBE29BBB
+    350be7b85df34073839910a56f43638b:
+      title: CX_5. right attitude to perfect wisdom
+      base_file: CX_5. right attitude to perfect wisdom.txt
+      work_id: W03334011
+    c88043ea2a974bb49a4930a3d8be1e11:
+      title: CX_6. Obstacles to perfect wisdom
+      base_file: CX_6. Obstacles to perfect wisdom.txt
+      work_id: WD524A441
+    c9b7796b7009456ca1933936e78033f3:
+      title: CX_7. The bodhisattva sustained by the buddhas
+      base_file: CX_7. The bodhisattva sustained by the buddhas.txt
+      work_id: W448FCB81
+    3d189cb700134b5aa3525f335172cd53:
+      title: CX_8. Prediction about spread of perfect wisdom
+      base_file: CX_8. Prediction about spread of perfect wisdom.txt
+      work_id: W426ECA3F
+    ed8e27f635924abdb554dc6ff025900e:
+      title: CX_9. Description of bodhisattvas who will study perfect wisdom
+      base_file: CX_9. Description of bodhisattvas who will study perfect wisdom.txt
+      work_id: WB382C560
+  chapter_to_tile:
+    CI: 1. Parivarta
+    CII: 2. Parivarta
+    CIII: 3. Parivarta
+    CIV: 4. Parivarta
+    CV: 5. Parivarta
+    CVI: 6. Parivarta
+    CVII: 7. Parivarta
+    CVIII: 8. Parivarta
+    CIX: 9. Parivarta
+    CX: 10. Parivarta
+    CXI: 11. Parivarta
+    CXII: 12. Parivarta
+    CXIII: 13. Parivarta
+    CXIV: 14. Parivarta
+    CXV: 15. Parivarta
+    CXVI: 16. Parivarta
+    CXVII: 17. Parivarta
+    CXVIII: 18. Parivarta
+    CXIX: 19. Parivarta
+    CXX: 20. Parivarta
+    CXXI: 21. Parivarta
+    CXXII: 22. Parivarta
+    CXXIII: 23. Parivarta
+    CXXIV: 24. Parivarta
+    CXXV: 25. Parivarta
+    CXXVI: 26. Parivarta
+    CXXVII: 27. Parivarta
+    CXXVIII: 28. Parivarta
+    CXXIX: 30. Parivarta
+    CXXX: 31. Parivarta
+    CXXXI: 32. Parivarta
+created_at: '2022-03-01T21:15:02.021502'
+last_modified_at: '2022-03-01T21:15:02.021511'

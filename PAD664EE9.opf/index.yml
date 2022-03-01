@@ -1,0 +1,844 @@
+id: c11826ef5f0349a19ef3aa198863a7f3
+annotation_type: index
+revision: '00001'
+annotations:
+  3822c88eaf2a443ab73f3ebd00d16ef1:
+    work_id: WF9562AF6
+    span:
+      vol: 29. Parivarta
+      start: 0
+      end: 99
+  cf08f2538355432188127a68132c5cfc:
+    work_id: WBD78EC62
+    span:
+      vol: CIII_1. Worldly advantages of perfect wisdom
+      start: 0
+      end: 1317
+  c6da70275898432b8e6cb00920edff9d:
+    work_id: WDAC97917
+    span:
+      vol: CIII_2. The cult of perfect wisdom compared with the cult of the buddhas
+      start: 0
+      end: 1898
+  4108a9c2fceb4b52a12a43ab331a885e:
+    work_id: W878628A1
+    span:
+      vol: CIII_3. Perfect wisdom, a great spell
+      start: 0
+      end: 1687
+  72d4d51710514808a1d8cad8f703b60d:
+    work_id: W87EDB900
+    span:
+      vol: CIII_4. Perfect wisdom, and the other perfections
+      start: 0
+      end: 297
+  cbd2646ad87944688ad93f8a61f7a00f:
+    work_id: WEFE9B45E
+    span:
+      vol: CIII_5. Further advantages from perfect wisdom
+      start: 0
+      end: 1645
+  85ce7e90e93a4bc5b9a5a11ea570eb9b:
+    work_id: W6309736A
+    span:
+      vol: CII_1. Preamble
+      start: 0
+      end: 465
+  359324086144409a94c60afb2e933fce:
+    work_id: WC13434D3
+    span:
+      vol: CII_2. How to stand in emptiness, or the perfection of wisdom
+      start: 0
+      end: 746
+  67adf135824a4809b9f9e3bb3617d706:
+    work_id: WEFDD55B7
+    span:
+      vol: CII_3. The saints and their goal are illusions
+      start: 0
+      end: 659
+  95a72cce192e4713a0fd7f4bf085de14:
+    work_id: W901A9EA0
+    span:
+      vol: CII_4. Sakra’s flowers
+      start: 0
+      end: 182
+  77615947e614417babbea87bff27573b:
+    work_id: W4ADDB42F
+    span:
+      vol: CII_5. Training in perfect wisdom
+      start: 0
+      end: 505
+  2c6ab2bc74494fba8fa8ad9724eeab77:
+    work_id: WB941FC21
+    span:
+      vol: CII_6. The infinitude of perfect wisdom
+      start: 0
+      end: 601
+  13c3f6527f7c425899e9a7d4345fa33e:
+    work_id: W7D758784
+    span:
+      vol: CII_7. Confirmation
+      start: 0
+      end: 315
+  38c117c9479843ce96289e9d6366d868:
+    work_id: W9C903732
+    span:
+      vol: CIV_1. Relative value of tathagata-relics and of perfect wisdom
+      start: 0
+      end: 531
+  009a691fc691489d833265cd07eb4473:
+    work_id: W37AAE723
+    span:
+      vol: CIV_2. Simile of the wishing jewel
+      start: 0
+      end: 437
+  1ef43624891f4e58abb67e982a36822f:
+    work_id: W49F8FFF8
+    span:
+      vol: CIV_3. Supreme value of the perfection of wisdom
+      start: 0
+      end: 557
+  97152b7f9dfe4414ba74906b264ac367:
+    work_id: WAEE2ABAC
+    span:
+      vol: CIX_1. Perfect wisdom perfectly pure
+      start: 0
+      end: 259
+  a8731619cc14428ab7003f12198be897:
+    work_id: WBF181576
+    span:
+      vol: CIX_2. Effects of perfect wisdom
+      start: 0
+      end: 305
+  0cfb4433da294fa9b565cba9d083b757:
+    work_id: W03D2C5AE
+    span:
+      vol: CIX_3. The second turning of the wheel of dharma
+      start: 0
+      end: 253
+  85dd6cfe4c3e498997d61deefc327f6a:
+    work_id: W9F775C13
+    span:
+      vol: CIX_4. Modes and qualities of perfect wisdom
+      start: 0
+      end: 1163
+  e3f284dbde4a4d3e913ccffdca84ab3d:
+    work_id: W88B806DE
+    span:
+      vol: CI_1. Introduction
+      start: 0
+      end: 251
+  8c19a0a5acb047dea5ed1cc471692090:
+    work_id: W495BD9DD
+    span:
+      vol: CI_2. The extinction of self
+      start: 0
+      end: 3030
+  cb7b64c0a3d9484ea21868a017143326:
+    work_id: W7EE55858
+    span:
+      vol: CI_3. The meaning of ’Bodhisattva’
+      start: 0
+      end: 64
+  64b1b7567bdf45d9b4908e8cbf015d56:
+    work_id: WDD58A954
+    span:
+      vol: CI_4. The meaning of ’great being’
+      start: 0
+      end: 723
+  6b850854b2b449618b601a9a6bd1d51a:
+    work_id: WBB86A8F3
+    span:
+      vol: CI_5. The meaning of ’great vehicle’
+      start: 0
+      end: 401
+  e8da7b2267644aacba9e824498621fbb:
+    work_id: WDD55ED7D
+    span:
+      vol: CI_6. Attainment
+      start: 0
+      end: 1365
+  42768ee7f0d040c68af42850f83364db:
+    work_id: WC09A5FAD
+    span:
+      vol: CVIII_1. Depth and purity of perfect wisdom
+      start: 0
+      end: 1041
+  82db9babea524388826f361a112a5c81:
+    work_id: WFF40535F
+    span:
+      vol: CVIII_2. Attachments
+      start: 0
+      end: 478
+  2dd756c5e01545b38d8bb46333810af3:
+    work_id: WE1FA3ED0
+    span:
+      vol: CVIII_3. Non-attachment
+      start: 0
+      end: 545
+  5fc754aeb76145e7be68f09bf3dbcb59:
+    work_id: W04FAA088
+    span:
+      vol: CVIII_4. Like space or an echo
+      start: 0
+      end: 717
+  c32d0cecdcda4820b52e453bc5dcf148:
+    work_id: W0097BB94
+    span:
+      vol: CVIII_5. Conclusion
+      start: 0
+      end: 166
+  f78b5165e38b41f188ab16bc814c5b8b:
+    work_id: W861C7814
+    span:
+      vol: CVII_1. Hymm to the perfection of wisdom
+      start: 0
+      end: 328
+  060e5de6ddad4ef6951f92cf90038c71:
+    work_id: WFE9E90F4
+    span:
+      vol: CVII_2. Predominance of perfect wisdom over the other perfections
+      start: 0
+      end: 270
+  ed5c96b5f09348579bd7ba4fe283fe87:
+    work_id: W0A944ECD
+    span:
+      vol: CVII_3. Nothing procured by perfect wisdom
+      start: 0
+      end: 439
+  8a4128e642be4608aba922350923bf8a:
+    work_id: W3F9D1FA5
+    span:
+      vol: CVII_4. Why the perfection of wisdom is great
+      start: 0
+      end: 316
+  b377370b352e40cca4c0b9783faa5493:
+    work_id: W42560C04
+    span:
+      vol: CVII_5. Causes of belief in the perfection of wisdom
+      start: 0
+      end: 220
+  b34749e889224778a5771d38f7166d64:
+    work_id: W0BF92A92
+    span:
+      vol: CVII_6. Causes and consequences of disbelief
+      start: 0
+      end: 1354
+  aa3069d7d7c2410a9631d69511635ae4:
+    work_id: W969C5D8E
+    span:
+      vol: CVI_1. Supreme merit of dedication and jubilation
+      start: 0
+      end: 57
+  53dd2df9e15741b3a390b67b2d0dd56b:
+    work_id: W3B3FB69F
+    span:
+      vol: CVI_2. The range of jubilation
+      start: 0
+      end: 275
+  1b1e86ecdbb2414793e2387e99431361:
+    work_id: W537FDF6F
+    span:
+      vol: CVI_3. A metaphysical problem
+      start: 0
+      end: 617
+  bcc41d8545cf45c894ca63645ea26167:
+    work_id: W3438E6DC
+    span:
+      vol: CVI_4. How perverted views can be avoided
+      start: 0
+      end: 1553
+  1168efc8128746ac97d5623d6a46a067:
+    work_id: W43F89F87
+    span:
+      vol: CVI_5. Considerations of merit
+      start: 0
+      end: 1757
+  0e709bf3cd32427985c57b2556261aa9:
+    work_id: W9B24D550
+    span:
+      vol: CV_1. The perfection of wisdom a source of great merit
+      start: 0
+      end: 1051
+  9d6b7d74832d461d8d80ce1f2a261972:
+    work_id: W50849DD1
+    span:
+      vol: CV_2. The counterfeit perfection of wisdom
+      start: 0
+      end: 379
+  5363ef8dffdb42b386301b1e8b341a5a:
+    work_id: W252259D5
+    span:
+      vol: CV_3. The perfection of wisdom greater than any other spiritual gift
+      start: 0
+      end: 4920
+  f181fbfd004e4d5bafc4ed9e8b99b6fd:
+    work_id: WA93FA094
+    span:
+      vol: CXIII_1. Five attributes of perfect wisdom
+      start: 0
+      end: 68
+  7e95f7ea210d4dddbcb184a9d7747bab:
+    work_id: W1A0F2AED
+    span:
+      vol: CXIII_2. Spiritual rebirth resulting from this knowledge
+      start: 0
+      end: 7
+  b27f45d507de43ddb324625d0a191b62:
+    work_id: WA6DA9B22
+    span:
+      vol: CXIII_3. Nothing to take hold of
+      start: 0
+      end: 27
+  b2afec70527b43a88d9a68b8611ac8eb:
+    work_id: W0209B140
+    span:
+      vol: CXIII_4. Reaction of the gods
+      start: 0
+      end: 17
+  59d6328f43664bcfb9339e52bc36f31a:
+    work_id: W869EF8AA
+    span:
+      vol: CXII_1. Perfect wisdom the mother of the Buddhas
+      start: 0
+      end: 267
+  501f6e1dad9c44c68c2f7f3755aee24a:
+    work_id: W20495F44
+    span:
+      vol: CXII_2. How the Tathagata knows the world
+      start: 0
+      end: 121
+  d7b57e0b8f6248b1a89f8adaee852cb2:
+    work_id: WB040689A
+    span:
+      vol: CXII_3. How the Tathagata knows the thoughts of beings*
+      start: 0
+      end: 1513
+  ae625129d1334128ba7fb230b9d2d607:
+    work_id: W0D93F6FF
+    span:
+      vol: CXII_4. Deep marks, and how they are fastened
+      start: 0
+      end: 29
+  5f2766d246b64db38006cb34a9f447d6:
+    work_id: WF1AC6C44
+    span:
+      vol: CXII_5. The world shown as empty
+      start: 0
+      end: 47
+  6cb069c56fcb4470b7304588f34e4748:
+    work_id: WCB2DBC5F
+    span:
+      vol: CXIV_1. Future and past rebirths
+      start: 0
+      end: 10
+  b5fdf7edb5ab4576bd7ed7820caebb9b:
+    work_id: WFD73DE78
+    span:
+      vol: CXIV_2. Past deeds of a bodhisattva who fails in perfect wisdom
+      start: 0
+      end: 15
+  1876cc7e77df4a4484b4bbcae6006469:
+    work_id: W60458553
+    span:
+      vol: CXIV_3. Four similes
+      start: 0
+      end: 50
+  b1e016166caf42db929d7d6e12f5637c:
+    work_id: W85F5D254
+    span:
+      vol: CXIX_1. Conditioned coproduction
+      start: 0
+      end: 13
+  7b396cea018c45e1a16b20aeb304770c:
+    work_id: W84816A0E
+    span:
+      vol: CXIX_2. No development
+      start: 0
+      end: 40
+  31af0817e8cc45d2b5196c35abbe8a6f:
+    work_id: W08178C78
+    span:
+      vol: CXIX_3. No objective supports and no own-being
+      start: 0
+      end: 49
+  c429f1cde7a14b438e225c2bfac61bd1:
+    work_id: WE1A1CA14
+    span:
+      vol: CXIX_4. Five places which inspire fear
+      start: 0
+      end: 58
+  f7440ab3fdd947deac8789a2502d5876:
+    work_id: W99F7D343
+    span:
+      vol: CXIX_5. Prediction of the goddess of the Ganges
+      start: 0
+      end: 49
+  b561fbf4b80e46de94da3b0c8a2aa4db:
+    work_id: WDE54E658
+    span:
+      vol: CXI_1. Various deeds of Mara
+      start: 0
+      end: 556
+  62f2d4dbc2ba4da68b234d3f56982826:
+    work_id: W298A2B99
+    span:
+      vol: CXI_2. The perfection of wisdom and the sutras of the disciples
+      start: 0
+      end: 875
+  a9e0af33c7e241d99fa8d495f3297aeb:
+    work_id: WEC484970
+    span:
+      vol: CXI_3. Various deeds of Mara
+      start: 0
+      end: 525
+  d6e4f8b5fa3448b6be5f45e756fd7b7a:
+    work_id: WEA999A25
+    span:
+      vol: CXI_4. Sources of discord between teacher and pupil
+      start: 0
+      end: 496
+  bceb9763e81c4fd89e5bc021e3a2ba1b:
+    work_id: W4345F18F
+    span:
+      vol: CXI_5. Misdirection of aim
+      start: 0
+      end: 236
+  635719413ed84554bd096543f5121f61:
+    work_id: W540622DC
+    span:
+      vol: CXI_6. More discord between teacher and pupil
+      start: 0
+      end: 742
+  db0339eb0182480396d030c2f45af714:
+    work_id: WEC348474
+    span:
+      vol: CXI_8. Antagonism between Mara and Buddha
+      start: 0
+      end: 268
+  c592aac523924ba79d6f27ea02fb7413:
+    work_id: WB4EB492F
+    span:
+      vol: CXVIII_1. Deep stations
+      start: 0
+      end: 32
+  98cf8f71dd2044819961469cd69469e6:
+    work_id: W747B2294
+    span:
+      vol: CXVIII_2. How to attend to perfect wisdom
+      start: 0
+      end: 15
+  2e558a96205d4316bfb616a3579a200d:
+    work_id: W13564D41
+    span:
+      vol: CXVIII_3. Merit
+      start: 0
+      end: 32
+  c3a6411ae2c5425d8a514bc06c1106b4:
+    work_id: WBAB1B8AA
+    span:
+      vol: CXVIII_4. Immeasurable, empty and talk
+      start: 0
+      end: 35
+  52216713defb4144a0d27ce3db876bd0:
+    work_id: W71EE21C1
+    span:
+      vol: CXVIII_5. No growth or diminution
+      start: 0
+      end: 58
+  eceee73b099c4367a50c82441a7292e0:
+    work_id: W9EAB6910
+    span:
+      vol: CXVII_1. Various tokens of irreversibility
+      start: 0
+      end: 68
+  579f21787d4141008e27cb81d740ceba:
+    work_id: W2473B294
+    span:
+      vol: CXVII_2. Mara’s deeds
+      start: 0
+      end: 62
+  8db5ad3d0fd84fef8579c70691d4159f:
+    work_id: W7575DD45
+    span:
+      vol: CXVII_3. More tokens of irreversibility
+      start: 0
+      end: 121
+  91995e6ee7a24f9288c28a64b09dabdb:
+    work_id: W4733EEC4
+    span:
+      vol: CXVI_1. Tathagata-suchness
+      start: 0
+      end: 65
+  a4748ce93ac7485e8738994fb5f8676b:
+    work_id: W26C22C24
+    span:
+      vol: CXVI_2. The earth shakes, and many are saved
+      start: 0
+      end: 16
+  5818e373db4740cb875c1ee276385d8f:
+    work_id: W06E003EF
+    span:
+      vol: CXVI_3. Perfect wisdom and skill in means
+      start: 0
+      end: 45
+  86210a8b5bc64f648fc6d9516becef6a:
+    work_id: W774CA92F
+    span:
+      vol: CXVI_4. Enlightenment and emptiness
+      start: 0
+      end: 73
+  2826d584e0324878a767e039b23f7139:
+    work_id: WA0011329
+    span:
+      vol: CXVI_5. Requisites of going forth to enlightenment
+      start: 0
+      end: 25
+  f572c3a30ffa40629a2facbe647272c2:
+    work_id: WF24CF91A
+    span:
+      vol: CXV_1. The beginner’s task
+      start: 0
+      end: 17
+  381f53265c0a4614be0430cdc8764a06:
+    work_id: W23288F37
+    span:
+      vol: CXV_2. How a bodhisattva helps beings
+      start: 0
+      end: 110
+  f94fe2478fab43ecb1e786614d0876d5:
+    work_id: W3FF7B282
+    span:
+      vol: CXV_3. Description of perfect wisdom
+      start: 0
+      end: 101
+  3834a3b9812b4d27ae44f4fe88c20357:
+    work_id: W016A61B6
+    span:
+      vol: CXXIII_1. The superior position of bodhisattvas
+      start: 0
+      end: 45
+  823dd7cd58bc439aa8789fa4a0baa890:
+    work_id: W84BCB3E4
+    span:
+      vol: CXXIII_2. Rewards of perfect wisdom
+      start: 0
+      end: 20
+  430137d00c5d474dac79bfb4c9149131:
+    work_id: W72CDDD17
+    span:
+      vol: CXXII_1. The good friends
+      start: 0
+      end: 25
+  bdbb887d3e324121b7580bc2718bcb7e:
+    work_id: W75FB07AC
+    span:
+      vol: CXXII_2. Emptiness, defilements and purification
+      start: 0
+      end: 35
+  aaeb883e23034aa781898df1d910e3ac:
+    work_id: W6B676B18
+    span:
+      vol: CXXII_3. Attentions to perfect wisdom, and the pearl of great price
+      start: 0
+      end: 50
+  fc8722d118fa46a1818499641cf15674:
+    work_id: W8015088C
+    span:
+      vol: CXXII_4. Emptiness and growth in enligthenment
+      start: 0
+      end: 41
+  2923559dc7e847ebad27a3b214ead58f:
+    work_id: W8D488382
+    span:
+      vol: CXXIV_1. Conditions which open a bodhisattva to Mara’s influence
+      start: 0
+      end: 58
+  bb9ba30a8fd748198fff5b296a43c711:
+    work_id: W8548820B
+    span:
+      vol: CXXIV_2. The bodhisattva’s rigth attitude to other bodhisattvas
+      start: 0
+      end: 35
+  8aaa0122839548b497ec145cbb35cf37:
+    work_id: WA9FA5021
+    span:
+      vol: CXXIX_1. Sadaprarudita sets out to find perfect wisdom
+      start: 0
+      end: 69
+  919c62372fe34b4fbcca986f42776906:
+    work_id: W22524783
+    span:
+      vol: CXXIX_2. Description of Gandhavati, and of Dharma_udgata’s life
+      start: 0
+      end: 67
+  8b7467e1a5c8409e9efc790a56ea877b:
+    work_id: WB8FE746A
+    span:
+      vol: CXXIX_3. List and significance of concentrations
+      start: 0
+      end: 92
+  66817c59aa1147a7ab88dc8e7249a776:
+    work_id: WF3F1F48E
+    span:
+      vol: CXXIX_4. Sadaprarudita and the merchant’s daughter
+      start: 0
+      end: 149
+  ede245461ff441b8a1010a759699629d:
+    work_id: WD9D949CD
+    span:
+      vol: CXXIX_5. The meeting with Dharma_udgata
+      start: 0
+      end: 88
+  b4cb9491de154caaaa37d0861253c8ea:
+    work_id: WFF533424
+    span:
+      vol: CXXI_1. Pride and the magical power of veracity
+      start: 0
+      end: 19
+  c482a3f6d7a742ee8b63cb59192e8320:
+    work_id: WAA3A63AA
+    span:
+      vol: CXXI_2. Pride in connection with the annunciation of the name
+      start: 0
+      end: 55
+  3f7148140afa41f3bfbab50d34e7f832:
+    work_id: W49554AD0
+    span:
+      vol: CXXI_3. Faults in connection with detachment
+      start: 0
+      end: 60
+  556bfd0026d640d1b440980cde342458:
+    work_id: W7CAB8AE9
+    span:
+      vol: CXXVIII_1. Prediction of Avakirnakusuma
+      start: 0
+      end: 24
+  0f076ddf775a4e2e8634c8bf632ba2b3:
+    work_id: W0AA6FA8F
+    span:
+      vol: CXXVIII_2. Praise of perfect wisdom
+      start: 0
+      end: 17
+  d89bcec9c0a045b0be2c0fff5881ccac:
+    work_id: WB7A29252
+    span:
+      vol: CXXVIII_3. Transmission of the sutra to Ananda
+      start: 0
+      end: 53
+  bc01de532bf7412e9b00e5334854b6e0:
+    work_id: W423718C4
+    span:
+      vol: CXXVIII_4. Akshobhya’s buddha-field
+      start: 0
+      end: 28
+  d6f2eccd79464e1391ed338103f10df3:
+    work_id: W2EBCD76E
+    span:
+      vol: CXXVIII_5. Extinction, non-extinction and perfect wisdom
+      start: 0
+      end: 61
+  a29551d41638436685c4f21d6016b4cc:
+    work_id: WAB1B515A
+    span:
+      vol: CXXVIII_6. Advantages derived from perfect wisdom
+      start: 0
+      end: 133
+  8438c079e4e142db94a76c8f16ea6dbf:
+    work_id: WDDDD748D
+    span:
+      vol: CXXVII_1. The bodhisattva’s courage in difficulties
+      start: 0
+      end: 38
+  a485be97f7f743408cec5d8cc827af76:
+    work_id: W836E8333
+    span:
+      vol: CXXVII_2. The bodhisattva protected by the gods and against Mara
+      start: 0
+      end: 25
+  1b25826170e54969a0691306f226cfe1:
+    work_id: W34FA774A
+    span:
+      vol: CXXVII_3. The buddhas praise the bodhisattva
+      start: 0
+      end: 23
+  c77335531b0b4f15befbeca4a7175065:
+    work_id: WEA10F968
+    span:
+      vol: CXXVII_4. Enlightenment and suchness
+      start: 0
+      end: 18
+  c82b63ba92954cb1b3728914194a52f2:
+    work_id: WBA0AC48D
+    span:
+      vol: CXXVII_5. Emptiness and dwelling in perfect wisdom
+      start: 0
+      end: 41
+  d0ea409726b04ea59f6b0d5ce854c23c:
+    work_id: W40A234BF
+    span:
+      vol: CXXVI_1. Sakra praises the bodhisattvas
+      start: 0
+      end: 14
+  60094b05cc35439c8829d3eb8a12b16b:
+    work_id: W42943A82
+    span:
+      vol: CXXVI_2. Jubilation, turning over and merit
+      start: 0
+      end: 34
+  8211ad56d34940d883d4fbbc6e10b193:
+    work_id: WD7207C6E
+    span:
+      vol: CXXVI_3. The nature of illusion
+      start: 0
+      end: 73
+  fbc75bd580cb43329e73c5e217c338d3:
+    work_id: WB0BFD482
+    span:
+      vol: CXXV_1. How a bodhisattva is trained in all-knowledge
+      start: 0
+      end: 49
+  4d293a78e242411aa61b7dfe0130e235:
+    work_id: W28FFAEC8
+    span:
+      vol: CXXV_2. Fewness of bodhisattvas
+      start: 0
+      end: 33
+  587fd54b84b34e02b83a8a55a41b3a05:
+    work_id: WAAAA13C7
+    span:
+      vol: CXXV_3. The perfection of wisdom comprehends all perfections
+      start: 0
+      end: 8
+  7c984a532d7b4ad2bea532125ff7c5dc:
+    work_id: W7562D92F
+    span:
+      vol: CXXV_4. Merit from perfect wisdom
+      start: 0
+      end: 12
+  78e6c14a99754947a5a94cbd8cce0efc:
+    work_id: W480BA14D
+    span:
+      vol: CXXV_5. Bodhisattvas and disciples
+      start: 0
+      end: 21
+  d111b2d2492c4256aee7107fd99a843e:
+    work_id: WCEB4D544
+    span:
+      vol: CXXXI_1. End of the story of Sadaprarudita
+      start: 0
+      end: 9
+  4514dfe39577499a9d917e16bb53b96d:
+    work_id: W2C9DC29F
+    span:
+      vol: CXXXI_2. The perfection of wisdom entrusted to Ananda
+      start: 0
+      end: 41
+  f784518c588c4a52af68c86a7839b2f6:
+    work_id: WB1114DC7
+    span:
+      vol: CXXX_1. The coming and going of the tathagatas
+      start: 0
+      end: 84
+  6e4a613753ae4a08bfff4342e8f5a4e1:
+    work_id: W2486448A
+    span:
+      vol: CXXX_2. Sadaprarudita’s self sacrifice
+      start: 0
+      end: 90
+  0ebf97040fed42cc82cca01af62a8b17:
+    work_id: WF645BA73
+    span:
+      vol: CXXX_3. Dharma_udgata’s demonstration of dharma
+      start: 0
+      end: 39
+  c772c675fbc5450cb47094c0d5fa422e:
+    work_id: W8FED5D7E
+    span:
+      vol: CXX_1. Emptiness and reality-limit
+      start: 0
+      end: 14
+  b7153aa1f36247bcbf1ec66a873ef5e3:
+    work_id: W42094482
+    span:
+      vol: CXX_2. Three similes
+      start: 0
+      end: 33
+  843c085059694db9ad0e836ea43f8fa0:
+    work_id: W6EBDD88B
+    span:
+      vol: CXX_3. Doors to deliverance and vows about beings
+      start: 0
+      end: 69
+  3892db5b78294210a9fda5b9812e4d12:
+    work_id: W2FB62BBA
+    span:
+      vol: CXX_4. Irreversibility
+      start: 0
+      end: 18
+  7fd280aaa806440d9e907e82d6ef9855:
+    work_id: W8E7835B3
+    span:
+      vol: CXX_5. Dream experiences and the mark of irreversibility
+      start: 0
+      end: 44
+  65f65d4c4a934fe9bde81d80cb8b77a7:
+    work_id: WC2659440
+    span:
+      vol: CXX_6. Irreversibility and the magical power of veracity
+      start: 0
+      end: 24
+  a184ed549fe444d593902c5bbb5a079e:
+    work_id: W8D11BB66
+    span:
+      vol: CX_1. Past deeds, and the present attitude to perfect wisdom
+      start: 0
+      end: 804
+  204cafe77464477d8efd66623cad5c4c:
+    work_id: W47C5C485
+    span:
+      vol: CX_2. Qualifications of a bodhisattva who obtains perfect wisdom
+      start: 0
+      end: 198
+  3c1acea266e041e38a8d7950c32c055e:
+    work_id: WCC4C090F
+    span:
+      vol: CX_3. Five similes to illustrate nearness to full enlightenment
+      start: 0
+      end: 811
+  eddb7c1cca2c4975bc075fcb3cd40d78:
+    work_id: WFBE29BBB
+    span:
+      vol: CX_4. Why bodhisattvas are well favoured by the buddhas
+      start: 0
+      end: 168
+  af7d4ae1ae324bd3919005e827088743:
+    work_id: W03334011
+    span:
+      vol: CX_5. right attitude to perfect wisdom
+      start: 0
+      end: 429
+  a19b28da82ac42a8a25e230e8ff0e2fb:
+    work_id: WD524A441
+    span:
+      vol: CX_6. Obstacles to perfect wisdom
+      start: 0
+      end: 162
+  d1fae752150045f697c5358836ac3baa:
+    work_id: W448FCB81
+    span:
+      vol: CX_7. The bodhisattva sustained by the buddhas
+      start: 0
+      end: 387
+  2c45e80bf00042988c534c63541f0548:
+    work_id: W426ECA3F
+    span:
+      vol: CX_8. Prediction about spread of perfect wisdom
+      start: 0
+      end: 197
+  53f94c048e3e42b0974472d88ed1a283:
+    work_id: WB382C560
+    span:
+      vol: CX_9. Description of bodhisattvas who will study perfect wisdom
+      start: 0
+      end: 744
